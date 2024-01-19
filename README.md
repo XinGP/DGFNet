@@ -1,6 +1,6 @@
 # DGFNet
 
-# DGFNet: Multi-Agent Trajectory Prediction with Difficulty-Guided Feature Enhanced Network
+# Multi-Agent Trajectory Prediction with Difficulty-Guided Feature Enhanced Network
 
 **Authors**: Guipeng Xin, Duanfeng Chu*, Liping Lu, Xigang Wu, and Peichang Ye
 
