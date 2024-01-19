@@ -5,6 +5,7 @@
 **Authors**: Guipeng Xin, Duanfeng Chu*, Liping Lu, Xigang Wu, and Peichang Ye
 
 ## Abstract
+
 Trajectory prediction plays a crucial role in autonomous driving, aiming to forecast the future reasonable motion trajectories of traffic participants. 
 Most existing methods model agents uniformly, neglecting the behavioral heterogeneity among different agents.
 In this paper, we propose a novel Difficulty-Guided Feature Enhanced Network (DGFNet) to leverage the predictive difficulty differences among agents for trajectory prediction. 
@@ -15,4 +16,9 @@ Experimental results demonstrate that our DGFNet achieves advanced performance o
 Our implementation with additional visualizations is available at https://github.com/XinGP/DGFNet.
 
 ## Code 
+
 Code will be released soon. 
+
+## License
+
+This repository is licensed under [Apache 2.0](LICENSE).
