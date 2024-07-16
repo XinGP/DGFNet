@@ -6,7 +6,7 @@
 
 ## Code 
 
-Code will be released soon. 
+The code will be released before August.
 
 ## License
 
