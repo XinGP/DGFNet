@@ -6,7 +6,7 @@
 
 The code will be released before August.
 
-### Argoverse 1 Single model
+### Argoverse 1(Single model)
 - **Performance Metrics:**
 
 | Split | brier-minFDE | minFDE | MR | minADE | Param |
