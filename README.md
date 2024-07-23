@@ -18,6 +18,7 @@ The paper will be released before August.
 - **Performance Metrics:**
 
 | Split | brier-minFDE | minFDE | MR | minADE |
+|-------|:------------:|:------:|:--:|:------:|
 | Test  | 1.693       | 1.110 | 0.107 | 0.752 | 
 
 ## Gettting Started
