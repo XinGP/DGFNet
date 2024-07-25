@@ -123,7 +123,7 @@ class DGFNet(nn.Module):
         deviations = torch.sqrt(((final_positions - mean_final_positions.unsqueeze(2)) ** 2).sum(dim=-1))
 
         mean_deviation = deviations.mean(dim=-1)
-        mask = (mean_deviation <= 3).float()
+        mask = (mean_deviation <= 5).float()
 
         mask = mask.unsqueeze(-1).unsqueeze(-1).unsqueeze(-1)
 
