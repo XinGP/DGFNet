@@ -5,6 +5,9 @@
 ## Introduction
 
 The paper will be released before August.
+<p align="center">
+  <img src="files/DGFNet.png">
+</p>
 
 ### Argoverse 1(single model)
 - **Performance Metrics:**
