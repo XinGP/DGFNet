@@ -28,18 +28,18 @@ The paper will be released before August.
 
 * On Argoverse 1 motion forecasting dataset
 <p align="center">
-  <img src="files/AV1-1.png" width = "300"/>
-  <img src="files/AV1-2.png" width = "300"/>
-  <img src="files/AV1-3.png" width = "300"/>
-  <img src="files/AV1-4.png" width = "300"/>
+  <img src="files/AV1-1.png" width = "250"/>
+  <img src="files/AV1-2.png" width = "250"/>
+  <img src="files/AV1-3.png" width = "250"/>
+  <img src="files/AV1-4.png" width = "250"/>
 </p>
 
 * On Argoverse 2 motion forecasting dataset
 <p align="center">
-  <img src="files/AV2-1.png" width = "300"/>
-  <img src="files/AV2-2.png" width = "300"/>
-  <img src="files/AV2-3.png" width = "300"/>
-  <img src="files/AV2-4.png" width = "300"/>
+  <img src="files/AV2-1.png" width = "250"/>
+  <img src="files/AV2-2.png" width = "250"/>
+  <img src="files/AV2-3.png" width = "250"/>
+  <img src="files/AV2-4.png" width = "250"/>
 </p>
 
 ----
