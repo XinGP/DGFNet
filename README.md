@@ -68,17 +68,17 @@ pip install scikit-image IPython tqdm ipdb tensorboard
 
 - Preprocess full Argoverse 1 motion forecasting dataset using the script:
 ```
-sh scripts/argo_preproc_all.sh
+sh scripts/argo_preproc.sh
 ```
 
 - Launch training using the script:
 ```
-sh scripts/DGFNet_av1_train.sh
+sh scripts/DGFNet_train.sh
 ```
 
 - For model evaluation, please refer to the following scripts:
 ```
-sh scripts/DGFNet_av1_eval.sh
+sh scripts/DGFNet_eval.sh
 ```
 
 
