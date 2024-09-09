@@ -48,7 +48,7 @@ class AdvCfg():
         loss_cfg = dict()
         loss_cfg["loss_fn"] = "DGFNet.av1_loss_fn:LossFunc"
         loss_cfg["cls_coef"] = 0.1
-        loss_cfg["reg_coef"] = 0.8
+        loss_cfg["reg_coef"] = 0.7
         loss_cfg["reg_coef_final"] = 0.2
         loss_cfg["mgn"] = 0.2
         loss_cfg["cls_th"] = 2.0
