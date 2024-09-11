@@ -1,6 +1,6 @@
-# DGFNet
-
-# Multi-Agent Trajectory Prediction with Difficulty-Guided Feature Enhancement Network
+# DGFNet: Multi-Agent Trajectory Prediction with Difficulty-Guided Feature Enhancement Network
+### [Paper](https://arxiv.org/abs/2407.18551) | [Webpage](https://github.com/XinGP/DGFNet)
+This is the official implementation of the paper *Multi-Agent Trajectory Prediction with Difficulty-Guided Feature Enhancement Network*.
 
 ## Introduction
 
