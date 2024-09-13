@@ -80,6 +80,14 @@ sh scripts/DGFNet_train.sh
 sh scripts/DGFNet_eval.sh
 ```
 
+## How to Cite
+```bibtex
+@article{xin2024multi,
+  title={Multi-Agent Trajectory Prediction with Difficulty-Guided Feature Enhancement Network},
+  author={Xin, Guipeng and Chu, Duanfeng and Lu, Liping and Deng, Zejian and Lu, Yuang and Wu, Xigang},
+  journal={arXiv preprint arXiv:2407.18551},
+  year={2024}}
+```
 
 ## Acknowledgment
 We would like to express sincere thanks to the authors of the following packages and tools:
