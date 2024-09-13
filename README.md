@@ -84,7 +84,7 @@ sh scripts/DGFNet_eval.sh
 ## Acknowledgment
 We would like to express sincere thanks to the authors of the following packages and tools:
 - [Simpl](https://github.com/HKUST-Aerial-Robotics/SIMPL)
-- [ADAPT](https://https://github.com/gorkaydemir/ADAPT)
+- [ADAPT](https://github.com/gorkaydemir/ADAPT)
 
 ## License
 This repository is licensed under [MIT license](https://github.com/XinGP/DGFNet/blob/main/LICENSE).
