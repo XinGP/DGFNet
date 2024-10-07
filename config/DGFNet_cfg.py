@@ -38,7 +38,7 @@ class AdvCfg():
         net_cfg["dropout"] = 0.1
         net_cfg["update_edge"] = True
 
-        net_cfg["param_out"] = 'none'  # bezier/monomial/none
+        net_cfg["param_out"] = 'none'  
         net_cfg["param_order"] = 5     # 5-th order polynomials
 
         net_cfg.update(self.g_cfg)  # append global config
