@@ -2,6 +2,8 @@
 ### [Paper](https://arxiv.org/abs/2407.18551) | [Webpage](https://github.com/XinGP/DGFNet)
 This is the official implementation of the paper *Multi-Agent Trajectory Prediction with Difficulty-Guided Feature Enhancement Network*.
 
+This paper is currently being submitted to IEEE Robotics and Automation Letters (RA-L).
+
 ## Introduction
 
 <p align="center">
