@@ -82,6 +82,13 @@ sh scripts/DGFNet_train.sh
 sh scripts/DGFNet_eval.sh
 ```
 
+### Test from scratch
+
+- Generate files that can be submitted on the Eval AI website:
+```
+sh scripts/DGFNet_test.sh
+```
+
 ## How to Cite
 ```bibtex
 @article{xin2024multi,
@@ -95,6 +102,7 @@ sh scripts/DGFNet_eval.sh
 We would like to express sincere thanks to the authors of the following packages and tools:
 - [Simpl](https://github.com/HKUST-Aerial-Robotics/SIMPL)
 - [ADAPT](https://github.com/gorkaydemir/ADAPT)
+- [argoverse](https://github.com/argoverse)
 
 ## License
 This repository is licensed under [MIT license](https://github.com/XinGP/DGFNet/blob/main/LICENSE).
