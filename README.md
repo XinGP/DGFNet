@@ -84,7 +84,7 @@ sh scripts/DGFNet_eval.sh
 
 ### Test from scratch
 
-- Generate files that can be submitted on the Eval AI website:
+- Generate files that can be submitted on the [EvalAI](https://eval.ai/web/challenges/challenge-page/454/submission):
 ```
 sh scripts/DGFNet_test.sh
 ```
