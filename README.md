@@ -7,7 +7,7 @@ This paper is currently being submitted to IEEE Robotics and Automation Letters 
 ## Introduction
 
 <p align="center">
-  <img src="files/dgfnet.png">
+  <img src="files/DGFNet.png">
 </p>
 
 ### Argoverse 1(single model)
