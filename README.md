@@ -21,7 +21,7 @@ Firstly, we employ Spatio-temporal Feature Extraction to capture rich spatio-tem
 Compared to the SOTA methods, our method balances trajectory prediction accuracy and real-time inference speed. 
 
 <p align="center">
-  <img src="files/Intro.jpg" width="50%" height="50%">
+  <img src="files/Param.png" width="50%" height="50%">
 </p>
 
 ### Argoverse 1(single model)
