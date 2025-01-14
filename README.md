@@ -6,8 +6,13 @@ This paper is currently being submitted to IEEE Robotics and Automation Letters 
 
 ## Introduction
 
-Trajectory prediction is crucial for autonomous driving, as it aims to forecast the future movements of traffic participants. Traditional methods usually perform holistic inference on the trajectories of agents, neglecting differences in prediction difficulty among agents. This paper proposes a novel DifficultyGuided Feature Enhancement Network (DGFNet), which leverages the prediction difficulty differences among agents for multiagent trajectory prediction. Firstly, we employ Spatio-temporal Feature Extraction to capture rich spatio-temporal features.
-Secondly, a Difficulty-Guided Decoder controls the flow of future trajectories into subsequent modules, obtaining reliable future trajectories. Then, feature interaction and fusion are performed through the Future Feature Interaction module. Finally, the fused actor features are fed into the Final Decoder to generate the predicted trajectory distributions for multiple participants. Experimental results demonstrate that our model achieves SOTA performance on the Argoverse 1&2 motion forecasting benchmarks.
+Traditional methods usually perform holistic inference on the trajectories of agents, neglecting differences in prediction difficulty among agents. This paper proposes a novel Difficulty-Guided Feature Enhancement Network (**DGFNet**), which leverages the prediction difficulty differences among agents for multiagent trajectory prediction.
+
+<p align="center">
+  <img src="files/DGFNet.jpg">
+</p>
+
+Firstly, we employ Spatio-temporal Feature Extraction to capture rich spatio-temporal features. Secondly, a Difficulty-Guided Decoder controls the flow of future trajectories into subsequent modules, obtaining **reliable future trajectories**. Then, feature interaction and fusion are performed through the Future Feature Interaction module. Finally, the fused actor features are fed into the Final Decoder to generate the predicted trajectory distributions for multiple participants. Experimental results demonstrate that our model achieves SOTA performance on the Argoverse 1&2 motion forecasting benchmarks.
 
 <p align="center">
   <img src="files/DGFNet.jpg">
