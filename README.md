@@ -101,7 +101,7 @@ sh scripts/DGFNet_test.sh
 If you have any questions, please contact [Guipeng Xin](https://github.com/XinGP) via email (xinguipeng@whut.edu.cn).
 
 ## Citation
-If you find DiffusionDrive is useful in your research or applications, please consider giving us a star 🌟 and citing it by the following BibTeX entry.
+If you find DGFNet is useful in your research or applications, please consider giving us a star 🌟 and citing it by the following BibTeX entry.
 ```bibtex
 @article{xin2024multi,
   title={Multi-Agent Trajectory Prediction with Difficulty-Guided Feature Enhancement Network},
