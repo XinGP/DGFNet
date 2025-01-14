@@ -24,7 +24,7 @@ Compared to the SOTA methods, our method balances trajectory prediction accuracy
   <img src="files/Param.png" width="50%" height="50%">
 </p>
 
-### Argoverse 1(single model)
+### Argoverse 1(Single model)
 - **Performance Metrics:**
 
 | Split | brier-minFDE | minFDE | MR | minADE | Param |
@@ -32,7 +32,7 @@ Compared to the SOTA methods, our method balances trajectory prediction accuracy
 | Val   | 1.499       | 0.897 | 0.073 | 0.634 | 4.53 |
 | Test  | 1.742       | 1.117 | 0.108 | 0.763 | - |
 
-### Argoverse 1(ensemble model)
+### Argoverse 1(Ensemble model--Five models trained from different random seeds)
 - **Performance Metrics:**
 
 | Split | brier-minFDE | minFDE | MR | minADE |
