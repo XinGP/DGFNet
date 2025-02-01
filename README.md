@@ -109,6 +109,14 @@ If you have any questions, please contact [Guipeng Xin](https://github.com/XinGP
 ## Citation
 If you find DGFNet is useful in your research or applications, please consider giving us a star 🌟 and citing it by the following BibTeX entry.
 ```bibtex
+@article{xin2025multi,
+  title={Multi-Agent Trajectory Prediction with Difficulty-Guided Feature Enhancement Network},
+  author={Xin, Guipeng and Chu, Duanfeng and Lu, Liping and Deng, Zejian and Lu, Yuang and Wu, Xigang},
+  journal={IEEE Robotics and Automation Letters},
+  year={2025},
+  publisher={IEEE}
+}
+
 @article{xin2024multi,
   title={Multi-Agent Trajectory Prediction with Difficulty-Guided Feature Enhancement Network},
   author={Xin, Guipeng and Chu, Duanfeng and Lu, Liping and Deng, Zejian and Lu, Yuang and Wu, Xigang},
