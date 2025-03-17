@@ -81,8 +81,8 @@ class AdvCfg():
             opt_cfg['gamma'] = 0.1
         elif opt_cfg['scheduler'] == 'polyline':
             opt_cfg['init_lr'] = 1e-5
-            opt_cfg['milestones'] = [0, 5, 25, 40]
-            opt_cfg['values'] = [5e-5, 5e-4, 3e-4, 5e-5]
+            opt_cfg['milestones'] = [0, 5, 35, 40]
+            opt_cfg['values'] = [5e-5, 5e-4, 3e-4, 1e-4]
 
         opt_cfg.update(self.g_cfg)  # append global config
         return opt_cfg
