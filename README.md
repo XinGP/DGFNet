@@ -9,7 +9,7 @@ This paper is accepted for publication in the IEEE Robotics and Automation Lette
 Traditional methods usually perform holistic inference on the trajectories of agents, neglecting differences in prediction difficulty among agents. This paper proposes a novel Difficulty-Guided Feature Enhancement Network (**DGFNet**), which leverages the prediction difficulty differences among agents for multiagent trajectory prediction. 
 
 <p align="center">
-  <img src="files/Intro.jpg"width="50%" height="80%">
+  <img src="files/Intro.jpg"width="50%" height="50%">
 </p>
 
 Firstly, we employ Spatio-temporal Feature Extraction to capture rich spatio-temporal features. Secondly, a Difficulty-Guided Decoder controls the flow of future trajectories into subsequent modules, obtaining **reliable future trajectories**. Then, feature interaction and fusion are performed through the Future Feature Interaction module. Finally, the fused actor features are fed into the Final Decoder to generate the predicted trajectory distributions for multiple participants.
@@ -21,7 +21,7 @@ Firstly, we employ Spatio-temporal Feature Extraction to capture rich spatio-tem
 Compared to the SOTA methods, our method balances trajectory prediction accuracy and real-time inference speed. 
 
 <p align="center">
-  <img src="files/Param.png"width="50%" height="80%">
+  <img src="files/Param.png"width="50%" height="50%">
 </p>
 
 ### Argoverse 1(Single model)
