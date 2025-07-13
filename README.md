@@ -6,7 +6,7 @@ This paper is accepted for publication in the IEEE Robotics and Automation Lette
 
 ## Introduction
 
-Traditional methods usually perform holistic inference on the trajectories of agents, neglecting differences in prediction difficulty among agents. This paper proposes a novel Difficulty-Guided Feature Enhancement Network (**DGFNet**), which leverages the prediction difficulty differences among agents for multiagent trajectory prediction.
+Traditional methods usually perform holistic inference on the trajectories of agents, neglecting differences in prediction difficulty among agents. This paper proposes a novel Difficulty-Guided Feature Enhancement Network (**DGFNet**), which leverages the prediction difficulty differences among agents for multiagent trajectory prediction. 
 
 <p align="center">
   <img src="files/Intro.jpg" width="50%" height="50%">
